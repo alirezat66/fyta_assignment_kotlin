@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fyta_test_assignment</string>
+    <string name="camera_button_hint">Camera Button</string>
+    <string name="gallery_button_hint">Gallery Button</string>
+    <string name="photo_title">Photo Identification</string>
+    <string name="empty_title">We didn’t find your plant?</string>
+    <string name="empty_description">Retake the photo or send us the picutre  so that we can help you find it.</string>
+    <string name="retake_photo_button">Retake Photo</string>
+    <string name="result_toolbar_title">Results</string>
+    <string name="back_button">Back</string>
+</resources>
